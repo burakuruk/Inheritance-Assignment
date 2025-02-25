@@ -37,15 +37,15 @@ Ödev1/
 │── bin/              → Derleme sonrası oluşturulan dosyalar
 │── obj/              → Geçici proje dosyaları
 │── Classes/
-│   │── Car.cs        → Temel sınıf (Base Class)
-│   │── Bmw.cs        → BMW sınıfı
-│   │── Porsche.cs    → Porsche sınıfı
-│   │── Mercedes.cs   → Mercedes sınıfı
-│   │── Togg.cs       → Togg sınıfı
-│   │── Audi.cs       → Audi sınıfı
-│   │── Toyota.cs     → Toyota sınıfı
-│   │── OtomatikV.cs  → Otomatik vites sınıfı
-│   │── ManuelV.cs    → Manuel vites sınıfı
+│   ├── Car.cs        → Temel sınıf (Base Class)
+│   ├── Bmw.cs        → BMW sınıfı
+│   ├── Porsche.cs    → Porsche sınıfı
+│   ├── Mercedes.cs   → Mercedes sınıfı
+│   ├── Togg.cs       → Togg sınıfı
+│   ├── Audi.cs       → Audi sınıfı
+│   ├── Toyota.cs     → Toyota sınıfı
+│   ├── OtomatikV.cs  → Otomatik vites sınıfı
+│   ├── ManuelV.cs    → Manuel vites sınıfı
 │
 │── ÖDEV2-OOP_Concepts.txt → OOP kavramlarının açıklamaları
 │── README.md         → Ödev hakkında genel bilgiler
@@ -63,6 +63,6 @@ Bu proje eğitim amaçlıdır ve herhangi bir lisans kısıtlaması olmadan ku
 ✅ README.md’yi düzenledikten sonra GitHub’a yüklemeyi unutma!
 Git Bash’te şu komutları kullanarak güncelleme yapabilirsin:
 
-git add README.md
-git commit -m "README.md güncellendi"
-git push origin main
+	1.	git add README.md
+	2.	git commit -m "README.md güncellendi"
+	3.	git push origin main
