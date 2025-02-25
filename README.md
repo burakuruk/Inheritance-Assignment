@@ -16,6 +16,7 @@ Ek olarak, manuel ve otomatik vites türlerini belirlemek için iki ayrı sın
 Ödev 2: OOP Kavramları Açıklamaları
 
 Bu bölümde Nesne Yönelimli Programlama’nın temel kavramları açıklanmıştır:
+
 	•	Abstract Class (Soyut Sınıf)
 	•	Abstraction (Soyutlama)
 	•	Polymorphism (Çok Biçimlilik)
