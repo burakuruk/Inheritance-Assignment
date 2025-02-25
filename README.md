@@ -1,9 +1,14 @@
+Aşağıda README.md dosyanı daha düzenli ve profesyonel bir hale getirdim. Bunu GitHub’daki dosyan ile değiştirebilirsin.
+
+Inheritance-Assignment
+
 Bu repo, Inheritance (Kalıtım) ve Nesne Yönelimli Programlama (OOP) kavramlarını içeren bir ödev kapsamında oluşturulmuştur.
 
-Ödev 1: Inheritance Kullanarak Araç Sınıfları Oluşturma
+📌 Ödev 1: Inheritance Kullanarak Araç Sınıfları Oluşturma
 
 Bu bölümde, Car (Araba) adlı bir temel sınıf oluşturulmuş ve bu sınıftan türeyen farklı araç sınıfları miras alınarak geliştirilmiştir. Araçların özellikleri belirlenerek ekrana yazdırılmıştır.
-Oluşturulan araç sınıfları:
+
+🚗 Oluşturulan Araç Sınıfları:
 
 	•	BMW
 	•	Porsche
@@ -14,25 +19,50 @@ Oluşturulan araç sınıfları:
 
 Ek olarak, manuel ve otomatik vites türlerini belirlemek için iki ayrı sınıf kullanılmıştır.
 
-Ödev 2: OOP Kavramları Açıklamaları
+📌 Ödev 2: OOP Kavramları Açıklamaları
 
-Bu bölümde Nesne Yönelimli Programlama’nın temel kavramları açıklanmıştır:
+Bu bölümde, Nesne Yönelimli Programlama’nın temel kavramları açıklanmıştır:
 
 	•	Abstract Class (Soyut Sınıf)
 	•	Abstraction (Soyutlama)
 	•	Polymorphism (Çok Biçimlilik)
 
-Dosya Yapısı
+Bu dosya OOP kavramlarını anlamak için temel bilgiler içermektedir.
 
-	•	Ödev1/Program.cs → Ana kod dosyası
-	•	Ödev1/Classes/Car.cs → Temel sınıf (Base Class)
-	•	Ödev1/Classes/Bmw.cs, Porsche.cs, Mercedes.cs, Togg.cs, Audi.cs, Toyota.cs → Miras alınan araç sınıfları
-	•	Ödev1/Classes/OtomatikV.cs ve ManuelV.cs → Vites sistemleri
-	•	ÖDEV2-OOP_Concepts.txt → OOP kavramlarının açıklamaları
-	•	README.md → Ödev hakkında genel bilgiler
+📁 Dosya Yapısı
 
-Nasıl Çalıştırılır?
+Ödev1/
+│── Program.cs        → Ana kod dosyası
+│── Ödev1.csproj      → Proje yapılandırma dosyası
+│── bin/              → Derleme sonrası oluşturulan dosyalar
+│── obj/              → Geçici proje dosyaları
+│── Classes/
+│   │── Car.cs        → Temel sınıf (Base Class)
+│   │── Bmw.cs        → BMW sınıfı
+│   │── Porsche.cs    → Porsche sınıfı
+│   │── Mercedes.cs   → Mercedes sınıfı
+│   │── Togg.cs       → Togg sınıfı
+│   │── Audi.cs       → Audi sınıfı
+│   │── Toyota.cs     → Toyota sınıfı
+│   │── OtomatikV.cs  → Otomatik vites sınıfı
+│   │── ManuelV.cs    → Manuel vites sınıfı
+│
+│── ÖDEV2-OOP_Concepts.txt → OOP kavramlarının açıklamaları
+│── README.md         → Ödev hakkında genel bilgiler
 
-	1.	Visual Studio veya .NET destekleyen bir IDE açın.
+💻 Nasıl Çalıştırılır?
+
+	1.	Visual Studio 2022 veya .NET destekleyen bir IDE açın.
 	2.	Proje klasörünü açın ve Program.cs dosyasını çalıştırın.
 	3.	Konsolda araç bilgileri ve vites türleri görüntülenecektir.
+
+📜 Lisans
+
+Bu proje eğitim amaçlıdır ve herhangi bir lisans kısıtlaması olmadan kullanılabilir.
+
+✅ README.md’yi düzenledikten sonra GitHub’a yüklemeyi unutma!
+Git Bash’te şu komutları kullanarak güncelleme yapabilirsin:
+
+git add README.md
+git commit -m "README.md güncellendi"
+git push origin main
