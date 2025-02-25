@@ -1,0 +1,11 @@
+1. Abstract Class (Soyut Sınıf) Nedir?
+
+Soyut sınıf, diğer sınıfların miras alabileceği ancak doğrudan örneklenemeyen bir sınıftır. İçerisinde en az bir tane soyut (gövdesiz) metot bulunur. Bu metotlar, alt sınıflar tarafından zorunlu olarak tanımlanmalıdır. Soyut sınıflar, ortak özellikleri ve davranışları belirleyerek kodun daha düzenli ve yeniden kullanılabilir olmasını sağlar.
+
+2. Abstraction (Soyutlama) Nedir?
+
+Soyutlama, karmaşık sistemleri daha basit ve yönetilebilir hale getirmek için gereksiz ayrıntıları gizleyerek sadece temel özellikleri ve işlevleri ön plana çıkarma yöntemidir. Programlamada, kullanıcıya sadece gerekli bilgiyi sunarak uygulamaların daha anlaşılır ve kolay kullanılabilir olmasını sağlar. Bu sayede, iç işleyişten bağımsız olarak bir nesnenin nasıl kullanılacağına odaklanılır.
+
+3. Polymorphism (Çok Biçimlilik) Nedir?
+
+Çok biçimlilik, aynı isimdeki bir metodun veya fonksiyonun farklı nesneler tarafından farklı şekillerde uygulanabilmesini sağlayan bir programlama prensibidir. Bu, nesne yönelimli programlamada kodun esnek ve yeniden kullanılabilir olmasını kolaylaştırır. Çok biçimlilik sayesinde bir metodun farklı veri türleri veya sınıflar üzerinde farklı davranışlar sergilemesi sağlanabilir.
