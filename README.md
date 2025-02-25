@@ -29,29 +29,6 @@ Bu bölümde, Nesne Yönelimli Programlama’nın temel kavramları açıkla
 
 Bu dosya OOP kavramlarını anlamak için temel bilgiler içermektedir.
 
-📁 Dosya Yapısı
-
-Ödev1/
-│── Program.cs        → Ana kod dosyası
-
-│── Ödev1.csproj      → Proje yapılandırma dosyası
-
-│── bin/              → Derleme sonrası oluşturulan dosyalar
-
-│── obj/              → Geçici proje dosyaları
-│── Classes/
-│   ├── Car.cs        → Temel sınıf (Base Class)
-│   ├── Bmw.cs        → BMW sınıfı
-│   ├── Porsche.cs    → Porsche sınıfı
-│   ├── Mercedes.cs   → Mercedes sınıfı
-│   ├── Togg.cs       → Togg sınıfı
-│   ├── Audi.cs       → Audi sınıfı
-│   ├── Toyota.cs     → Toyota sınıfı
-│   ├── OtomatikV.cs  → Otomatik vites sınıfı
-│   ├── ManuelV.cs    → Manuel vites sınıfı
-│
-│── ÖDEV2-OOP_Concepts.txt → OOP kavramlarının açıklamaları
-│── README.md         → Ödev hakkında genel bilgiler
 
 💻 Nasıl Çalıştırılır?
 
