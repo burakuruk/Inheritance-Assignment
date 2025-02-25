@@ -33,8 +33,11 @@ Bu dosya OOP kavramlarını anlamak için temel bilgiler içermektedir.
 
 Ödev1/
 │── Program.cs        → Ana kod dosyası
+
 │── Ödev1.csproj      → Proje yapılandırma dosyası
+
 │── bin/              → Derleme sonrası oluşturulan dosyalar
+
 │── obj/              → Geçici proje dosyaları
 │── Classes/
 │   ├── Car.cs        → Temel sınıf (Base Class)
