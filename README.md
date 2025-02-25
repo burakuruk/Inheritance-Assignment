@@ -28,7 +28,7 @@ Dosya Yapısı
 	•	Ödev1/Classes/Car.cs → Temel sınıf (Base Class)
 	•	Ödev1/Classes/Bmw.cs, Porsche.cs, Mercedes.cs, Togg.cs, Audi.cs, Toyota.cs → Miras alınan araç sınıfları
 	•	Ödev1/Classes/OtomatikV.cs ve ManuelV.cs → Vites sistemleri
-	•	Ödev2/OOP_Concepts.txt → OOP kavramlarının açıklamaları
+	•	ÖDEV2-OOP_Concepts.txt → OOP kavramlarının açıklamaları
 	•	README.md → Ödev hakkında genel bilgiler
 
 Nasıl Çalıştırılır?
